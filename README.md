@@ -1,6 +1,17 @@
 # video_fun
 
-A new Flutter project.
+A video player Flutter project.
+
+# ScreenShots
+<div align="center">
+    <img src="/assets/vf1.png" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="/assets/vf2.png" width="400px"</img> 
+</div>
+<div align="center">
+    <img src="/assets/vf3.png" width="400px"</img> 
+</div>
 
 ## Getting Started
 
