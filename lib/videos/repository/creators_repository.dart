@@ -12,7 +12,7 @@ class CreatorRepository {
 
     var params = {
       "api_key": apiKey,
-      "query": "video",
+      "query": "basketball",
       "size": "medium",
       "orientation": "portrait"
     };
