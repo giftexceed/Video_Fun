@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-
-import 'home_page.dart';
+import 'splash_page.dart';
 
 void main() async {
   runApp(const MyApp());
@@ -20,7 +19,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.dark(), // Apply the black theme
       title: 'Video Fun',
       debugShowCheckedModeBanner: false,
-      home: const HomePage(),
+      home: const SplashPage(),
     );
   }
 }
